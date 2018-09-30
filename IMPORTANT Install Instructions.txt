@@ -1,0 +1,10 @@
+For this form to work, you can place it anywhere in RMS Express that you normaly place your files
+
+If you want the ability to print the PDF file that this form is mastered from you need tp place the files in "C:\RMS Express\Global Folders\Templates"
+or 
+you need to change the path in the "Neighborhood_Evaluation_Form_Initial.html" towards the bottom
+
+<!--========================== IF YOU MOVE YOUR FILES TO ANOTHER DIRECTORY OR DRIVE YOU WILL NEED TO CHANGE THE LOCATION BELOW ==================================-->
+          <a href="file://C:/RMS%20Express/Global%20Folders/Templates/NEIGHBORHOOD_EVALUATION.pdf">If Needed - Download Attached Field Work Sheet to Print.</a>
+
+If you have any problems installing please contact me at kd7maz@gmail.com
